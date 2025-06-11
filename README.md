@@ -51,4 +51,4 @@ This project is comprised of the following independent repositories:
 * **Frontend (`merry-berry-client`):** The client-side (React.js) is deployed using **Netlify**, leveraging its continuous deployment features for easy updates.
     * **Netlify Deployment Link:** [https://merry-berry.finneh.xyz/](https://merry-berry.finneh.xyz/)
 
-* **Backend (`merry-berry-server`):** The server-side (Express.js) is deployed on Render.com, a unified cloud platform for all your apps and websites. It connects to MongoDB Atlas for data persistence, handles user authentication purely via Firebase Authentication on the frontend, and securely manages payment processing with Stripe.
+* **Backend (`merry-berry-server`):** The server-side (Express.js) is deployed on **Render.com**, a unified cloud platform for all your apps and websites. It connects to MongoDB Atlas for data persistence, handles user authentication purely via Firebase Authentication on the frontend, and securely manages payment processing with Stripe.
